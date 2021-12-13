@@ -1,0 +1,5 @@
+project(task2)
+add_executable(main1.1 ./1.1/task1.1.c ./1.1/llist.c)
+add_executable(main1.2 ./1.2/task1.2.c ./1.2/llist.c)
+add_executable(main2 ./2.0/task2.0.c ./2.0/llist.c)
+add_executable(main3 ./3.0/task3.0.c ./3.0/llist.c)
