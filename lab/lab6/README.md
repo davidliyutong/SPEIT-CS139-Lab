@@ -831,3 +831,13 @@ int main() {
     ((type *) ((char *) (ptr) -offsetof(type, member)))
 #endif
 ```
+
+## Reference
+
+- [笨办法学C 中文版](https://wizardforcel.gitbooks.io/lcthw/content/)
+
+- [How to detect reliably Mac OS X, iOS, Linux, Windows in C preprocessor?](https://stackoverflow.com/questions/5919996/how-to-detect-reliably-mac-os-x-ios-linux-windows-in-c-preprocessor)
+
+- [Linux内核链表——看这一篇文章就够了](https://www.cnblogs.com/yangguang-it/p/11667772.html)
+
+- [C语言中可变参数函数实现原理](https://www.cnblogs.com/cpoint/p/3368993.html)
